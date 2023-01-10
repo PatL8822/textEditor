@@ -42,3 +42,5 @@ SOFTWARE.
 ![Screenshot (38)](https://user-images.githubusercontent.com/110148234/211431695-125e32ec-c59b-4234-957f-94cbe1461307.png)
 
 ## Link to work
+Heroku: https://uwschooltexteditor.herokuapp.com/
+gitHub: https://github.com/PatL8822/textEditor
